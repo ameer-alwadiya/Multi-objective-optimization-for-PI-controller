@@ -22,8 +22,6 @@ This repository contains code and documentation for the multi-objective optimiza
 6. [Recommendations](#recommendations)
 7. [Functions](#functions)
 8. [How to Use](#how-to-use)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Introduction
 
